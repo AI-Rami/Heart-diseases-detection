@@ -34,19 +34,6 @@ Tech Stack
 - Matplotlib
 - Jupyter Notebook
 
----
-
-How to Run
-
-1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/heart-disease-predictor.git
-   cd heart-disease-predictor
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Run the notebook:
-   jupyter notebook 1_heart_disease.ipynb
 
 ---
 
